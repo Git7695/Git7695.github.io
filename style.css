@@ -15,11 +15,9 @@ aside{
 article{
     flex:3;
 }
-
-img {
-    max-width: 100%;
+img{
+    max-width:100%;
 }
-
-img.small {
-    width: 100px;
+img.small{
+    width:100px;
 }
